@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Nandan Haloi
+title: nandan.haloi@scilifelab.se
 
 # Name pronunciation (optional)
-name_pronunciation: nandan.haloi@scilifelab.se
+name_pronunciation:  Nandan Haloi
 
 # Full name (for SEO)
 first_name: Nandan
@@ -102,13 +102,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=xHcYk_cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nandanhaloi123
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nhaloi/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
