@@ -3,6 +3,7 @@
 title: Nandan Haloi
 
 # Name pronunciation (optional)
+name_pronunciation = nandan.haloi@scilifelab.se
 
 # Full name (for SEO)
 first_name: Nandan
@@ -92,10 +93,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:nandan.haloi@scilifelab.se
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/nandan_haloi
     label: Follow me on Twitter
     display:
       header: true
