@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Marie Curie Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: KTH Royal Institute of Technology
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Molecular dynamics simulations, Experimental data-driven modeling, Ion channels and Ligand-protein interactions.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular dynamics simulations
+  - Experimental data-driven modeling
+  - Ion channels
+  - Ligand-protein interactions
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biophysics and Quantitative Biology (PI- Emad Tajkhorshid)
+    institution: University of Illinois at Urbana-Champaign, Illinois, USA
+    year: 2021
+    - course: BTech in Chemical Science and Technology
+    institution: Indian Institute of Technology Guwahati, Assam, India
+    year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
