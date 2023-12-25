@@ -3,7 +3,6 @@
 title: Nandan Haloi
 
 # Name pronunciation (optional)
-name_pronunciation:  Nandan Haloi
 
 # Full name (for SEO)
 first_name: Nandan
