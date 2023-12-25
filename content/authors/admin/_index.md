@@ -1,7 +1,8 @@
 ---
 # Display name
-name: Nandan Haloi
+title: Nandan Haloi
 
+# Name pronunciation (optional)
 
 # Full name (for SEO)
 first_name: Nandan
