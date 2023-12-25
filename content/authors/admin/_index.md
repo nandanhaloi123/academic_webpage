@@ -3,7 +3,7 @@
 title: Nandan Haloi
 
 # Name pronunciation (optional)
-name_pronunciation = nandan.haloi@scilifelab.se
+name_pronunciation: nandan.haloi@scilifelab.se
 
 # Full name (for SEO)
 first_name: Nandan
