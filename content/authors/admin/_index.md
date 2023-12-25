@@ -1,6 +1,6 @@
 ---
 # Display name
-title: nandan.haloi@scilifelab.se
+title: Nandan Haloi
 
 # Name pronunciation (optional)
 name_pronunciation:  Nandan Haloi
