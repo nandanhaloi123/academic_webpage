@@ -128,9 +128,9 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: awards
+    id: grants
     content:
-      title: Awards
+      title: Grants and Awards
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
