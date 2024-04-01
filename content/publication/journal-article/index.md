@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Discovering cryptic pocket opening and binding of a stimulant derivative in a vestibular site of the 5-HT3A receptor"
 authors:
 - admin
 - Robert Ford
