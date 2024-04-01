@@ -1,5 +1,5 @@
 ---
-title: EuroHPC Regular Access Supercomputing Grant (2022-2024). Grant no. EHPC-REG-2023R01103, EHPC-REG-2021R0074
+title: EuroHPC Regular Access Supercomputing Grant (2022-2024) Grant no. EHPC-REG-2023R01103, EHPC-REG-2021R0074
 # subtitle: Grant no. EHPC-REG-2023R01103, EHPC-REG-2021R0074
 # date: '2023-11-04'
 # summary: Easily blog from Jupyter notebooks!
