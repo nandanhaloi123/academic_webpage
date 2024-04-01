@@ -32,10 +32,10 @@ publication_types: ['article-journal']
 publication: bioRxiv
 # publication_short: 2024
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Ligand-gated ion channels propagate electrochemical signals in the nervous system. A diverse set of allosteric modulators including stimulants, anesthetics, and lipids regulate their function;however, structures of ligand-bound complexes can be difficult to capture by experimental methods, particularly when binding is dynamic or transient. Here, we used computational methods and electrophysiology to identify a possible bound state of a modulatory stimulant derivative in a cryptic vestibular pocket of a mammalian serotonin-3A receptor. Starting from a closed-pocket experimental structure, we first applied a molecular dynamics simulations-based goal-oriented adaptive sampling method to identify possible open-pocket conformations. To find plausible ligand-binding poses, we performed Boltzmann docking, which combines traditional docking with Markov state modeling, of the newly sampled conformations. Clustering and analysis of stability and accessibility of docked poses supported a preferred binding site; we further validated this site by mutagenesis and electrophysiology, suggesting a mechanism of potentiation by stabilizing intersubunit contacts. Given the pharmaceutical relevance of serotonin-3 receptors in emesis, psychiatric and gastrointestinal diseases, characterizing relatively unexplored modulatory sites such as these could open valuable avenues to understanding conformational cycling and designing state-dependent drugs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Cryptic pocket, Adaptive sampling, Markov state modeling, MD simulations, Electrophysiology
 
 tags: []
 
