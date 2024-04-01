@@ -2,12 +2,16 @@
 title: "Discovering cryptic pocket opening and binding of a stimulant derivative in a vestibular site of the 5-HT3A receptor"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Emelia Karlsson
+- Marc Delarue
+- Rebecca J. Howard
+- Erik Lindahl
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# date: "2015-09-01T00:00:00Z"
+doi: "https://doi.org/10.1101/2023.11.13.566806"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
