@@ -1,23 +1,27 @@
 ---
-title: 'An example conference paper'
+title: 'Discovering cryptic pocket opening and binding of
+a stimulant derivative in a vestibular site of the 5-HT3A receptor'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+- admin
+- Emelia Karlsson
+- Marc Delarue
+- Rebecca J. Howard
+- Erik Lindahl
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+# date: '2013-07-01T00:00:00Z'
+doi: 'https://doi.org/10.1101/2023.11.13.566806'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
