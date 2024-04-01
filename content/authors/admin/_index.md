@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Nandan Haloi
+title: Nandan Haloi
 
 # Name pronunciation (optional)
 
