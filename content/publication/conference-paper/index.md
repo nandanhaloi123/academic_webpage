@@ -1,6 +1,6 @@
 ---
 title: 'Discovering cryptic pocket opening and binding of
-a stimulant derivative in a vestibular site of the 5-HT3A receptor'
+a stimulant derivative in a vestibular site of the 5-HT3A receptor (2024)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 
 # date: '2013-07-01T00:00:00Z'
-doi: 'http://arxiv.org/pdf/1512.04133v1'
+doi: 'https://doi.org/10.1101/2023.11.13.566806'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -37,7 +37,7 @@ abstract: Ligand-gated ion channels propagate electrochemical signals in the ner
 # Summary. An optional shortened abstract.
 summary: Cryptic pocket, Adaptive sampling, Markov state modeling, MD simulations, Electrophysiology
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
 featured: true
