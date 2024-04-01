@@ -86,6 +86,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: accomplishments
+    id: Awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
@@ -128,9 +129,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: Awards
     content:
-      title: Recent Posts
+      title: Awards
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)

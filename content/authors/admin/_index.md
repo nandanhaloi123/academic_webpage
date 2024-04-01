@@ -30,7 +30,7 @@ bio: My research interests include Molecular dynamics simulations, Experimental 
 interests:
   - Protein conformations.
   - Ligand-protein interactions.
-  - Molecular dynamics simulations.
+  - MD simulations.
   - Markov state modeling.
   - Machine learning.
   - Experimental data integrations.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
+Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. This knowledge can be exploited to design state-specific drugs.  
 {style="text-align: justify;"}
