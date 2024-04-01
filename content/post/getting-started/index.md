@@ -1,6 +1,6 @@
 ---
-title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (2023-2025)
-subtitle: Grant no. 101107036
+title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (2023-2025). Grant no. 101107036
+# subtitle: Grant no. 101107036
 # date: '2023-11-04'
 # summary: Easily blog from Jupyter notebooks!
 ---
