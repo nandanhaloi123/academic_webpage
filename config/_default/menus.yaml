@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Awards
-    url: '#posts'
+    url: '#awards'
     weight: 20
   # - name: Projects
   #   url: '#projects'
@@ -19,9 +19,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
+  - name: Collaborators
+    url: '#collaborators'
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
