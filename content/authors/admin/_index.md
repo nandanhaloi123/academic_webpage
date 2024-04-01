@@ -28,10 +28,11 @@ bio: My research interests include Molecular dynamics simulations, Experimental 
 
 # Interests to show in About widget
 interests:
-  - Molecular dynamics simulations
-  - Experimental data-driven modeling
-  - Ion channels
-  - Ligand-protein interactions
+  - Molecular dynamics simulations.
+  - Machine learning.
+  - Experimental data-driven modeling.
+  - Ion channels.
+  - Ligand-protein interactions.
 
 # Education to show in About widget
 education:
