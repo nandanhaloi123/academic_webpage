@@ -40,7 +40,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -58,10 +58,10 @@ tags: []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: ''
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
