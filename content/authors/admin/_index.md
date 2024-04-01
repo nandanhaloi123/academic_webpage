@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nandan Haloi
+title: Dr. Nandan Haloi
 
 # Name pronunciation (optional)
 
@@ -24,7 +24,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Molecular dynamics simulations, Experimental data-driven modeling, Ion channels and Ligand-protein interactions.
+# bio: My research interests include Molecular dynamics simulations, Experimental data-driven modeling, Ion channels and Ligand-protein interactions.
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
+Dr. Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
 {style="text-align: justify;"}
