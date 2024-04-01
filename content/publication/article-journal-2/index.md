@@ -1,5 +1,7 @@
 ---
-title: 'Interactive computational and experimental approaches improve the sensitivity of periplasmic binding protein-based nicotine biosensors for measurements in biofluids'
+title: 'Interactive computational and experimental approaches 
+improve the sensitivity of periplasmic binding protein-based 
+nicotine biosensors for measurements in biofluids'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -36,7 +38,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *Protein Engineering, Design and Selection*
+publication_short: In *PEDS*
 
 abstract: We developed fluorescent protein sensors for nicotine with improved sensitivity. For iNicSnFR12 at pH 7.4, the proportionality constant for ∆F/F0vs [nicotine] (δ-slope, 2.7 μM−1) is 6.1-fold higher than the previously reported iNicSnFR3a. The activated state of iNicSnFR12 has a fluorescence quantum yield of at least 0.6. We measured similar dose-response relations for the nicotine-induced absorbance increase and fluorescence increase, suggesting that the absorbance increase leads to the fluorescence increase via the previously described nicotine-induced conformational change, the ‘candle snuffer’ mechanism. Molecular dynamics (MD) simulations identified a binding pose for nicotine, previously indeterminate from experimental data. MD simulations also showed that Helix 4 of the periplasmic binding protein (PBP) domain appears tilted in iNicSnFR12 relative to iNicSnFR3a, likely altering allosteric network(s) that link the ligand binding site to the fluorophore. In thermal melt experiments, nicotine stabilized the PBP of the tested iNicSnFR variants. iNicSnFR12 resolved nicotine in diluted mouse and human serum at 100 nM, the peak [nicotine] that occurs during smoking or vaping, and possibly at the decreasing levels during intervals between sessions. NicSnFR12 was also partially activated by unidentified endogenous ligand(s) in biofluids. Improved iNicSnFR12 variants could become the molecular sensors in continuous nicotine monitors for animal and human biofluids.
 
