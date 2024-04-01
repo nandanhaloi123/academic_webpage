@@ -1,24 +1,30 @@
 ---
-title: 'Discovering cryptic pocket opening and binding of
-a stimulant derivative in a vestibular site of the 5-HT3A receptor'
+title: 'Interactive computational and experimental approaches improve the sensitivity of periplasmic binding protein-based nicotine biosensors for measurements in biofluids'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Emelia Karlsson
-- Marc Delarue
-- Rebecca J. Howard
+- Shan Huang
+- Aaron L. Nichols
+- Eve J. Fine
+- Nicholas J. Friesenhahn
+- Christopher B. Marotta
+- Dennis A Dougherty
 - Erik Lindahl
+- Rebecca J. Howard
+- Stephen L. Mayo
+- Henry A. Lester
+
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-11-01T00:00:00Z'
-doi: 'https://doi.org/10.1101/2023.11.13.566806'
+date: '2024-02-01T00:00:00Z'
+doi: 'https://doi.org/10.1093/protein/gzae003'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,12 +36,13 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *bioRxiv*
+publication_short: In *Protein Engineering, Design and Selection*
 
-abstract: Ligand-gated ion channels propagate electrochemical signals in the nervous system. A diverse set of allosteric modulators including stimulants, anesthetics, and lipids regulate their function;however, structures of ligand-bound complexes can be difficult to capture by experimental methods, particularly when binding is dynamic or transient. Here, we used computational methods and electrophysiology to identify a possible bound state of a modulatory stimulant derivative in a cryptic vestibular pocket of a mammalian serotonin-3A receptor. Starting from a closed-pocket experimental structure, we first applied a molecular dynamics simulations-based goal-oriented adaptive sampling method to identify possible open-pocket conformations. To find plausible ligand-binding poses, we performed Boltzmann docking, which combines traditional docking with Markov state modeling, of the newly sampled conformations. Clustering and analysis of stability and accessibility of docked poses supported a preferred binding site; we further validated this site by mutagenesis and electrophysiology, suggesting a mechanism of potentiation by stabilizing intersubunit contacts. Given the pharmaceutical relevance of serotonin-3 receptors in emesis, psychiatric and gastrointestinal diseases, characterizing relatively unexplored modulatory sites such as these could open valuable avenues to understanding conformational cycling and designing state-dependent drugs.
+abstract: We developed fluorescent protein sensors for nicotine with improved sensitivity. For iNicSnFR12 at pH 7.4, the proportionality constant for ∆F/F0vs [nicotine] (δ-slope, 2.7 μM−1) is 6.1-fold higher than the previously reported iNicSnFR3a. The activated state of iNicSnFR12 has a fluorescence quantum yield of at least 0.6. We measured similar dose-response relations for the nicotine-induced absorbance increase and fluorescence increase, suggesting that the absorbance increase leads to the fluorescence increase via the previously described nicotine-induced conformational change, the ‘candle snuffer’ mechanism. Molecular dynamics (MD) simulations identified a binding pose for nicotine, previously indeterminate from experimental data. MD simulations also showed that Helix 4 of the periplasmic binding protein (PBP) domain appears tilted in iNicSnFR12 relative to iNicSnFR3a, likely altering allosteric network(s) that link the ligand binding site to the fluorophore. In thermal melt experiments, nicotine stabilized the PBP of the tested iNicSnFR variants. iNicSnFR12 resolved nicotine in diluted mouse and human serum at 100 nM, the peak [nicotine] that occurs during smoking or vaping, and possibly at the decreasing levels during intervals between sessions. NicSnFR12 was also partially activated by unidentified endogenous ligand(s) in biofluids. Improved iNicSnFR12 variants could become the molecular sensors in continuous nicotine monitors for animal and human biofluids.
+
 
 # Summary. An optional shortened abstract.
-summary: Cryptic pocket, Adaptive sampling, Markov state modeling, MD simulations, Electrophysiology
+summary: " "
 
 tags: []
 
