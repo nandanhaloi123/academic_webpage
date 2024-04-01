@@ -130,7 +130,7 @@ sections:
   - block: collection
     id: grants
     content:
-      title: Grants and Awards
+      title: Major Grants
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
