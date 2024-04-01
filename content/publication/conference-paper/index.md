@@ -40,7 +40,7 @@ summary: Cryptic pocket, Adaptive sampling, Markov state modeling, MD simulation
 tags: []
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
