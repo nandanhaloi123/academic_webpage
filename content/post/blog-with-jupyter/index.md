@@ -1,6 +1,6 @@
 ---
-title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (2023-2025)
-subtitle: Grant no. 101107036
+title: EuroHPC Regular Access Computing Grant (2022-2024)
+subtitle: Grant no. EHPC-REG-2023R01103, EHPC-REG-2021R0074
 # date: '2023-11-04'
 # summary: Easily blog from Jupyter notebooks!
 ---
