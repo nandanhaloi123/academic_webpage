@@ -200,16 +200,16 @@ sections:
     design:
       columns: '2'
       view: Card
-  - block: collection
-    content:
-      title: 
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: Card
+  # - block: collection
+  #   content:
+  #     title: 
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: Card
   # - block: collection
   #   id: talks
   #   content:
