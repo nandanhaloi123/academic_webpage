@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Dr. Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
+Dr. Haloi strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. He is currently a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. 
 {style="text-align: justify;"}
