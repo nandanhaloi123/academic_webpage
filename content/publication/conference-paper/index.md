@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 
 # date: '2013-07-01T00:00:00Z'
-doi: 'https://doi.org/10.1101/2023.11.13.566806'
+doi: 'http://arxiv.org/pdf/1512.04133v1'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -29,8 +29,8 @@ doi: 'https://doi.org/10.1101/2023.11.13.566806'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: *bioRxiv*
+# publication_short: In *ICW*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -40,7 +40,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 # url_pdf: ''
-url_code: 'http://arxiv.org/pdf/1512.04133v1'
+# url_code: 'http://arxiv.org/pdf/1512.04133v1'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -58,10 +58,10 @@ url_code: 'http://arxiv.org/pdf/1512.04133v1'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: ''
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
