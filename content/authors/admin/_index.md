@@ -28,11 +28,13 @@ bio: My research interests include Molecular dynamics simulations, Experimental 
 
 # Interests to show in About widget
 interests:
+  - Protein conformations.
+  - Ligand-protein interactions.
   - Molecular dynamics simulations.
   - Markov state modeling.
   - Machine learning.
-  - Protein conformations.
-  - Ligand-protein interactions.
+  - Experimental data integrations.
+
 
 # Education to show in About widget
 education:
