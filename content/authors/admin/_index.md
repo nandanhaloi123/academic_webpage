@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. This knowledge can be exploited to design state-specific drugs.  
+Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
 {style="text-align: justify;"}
