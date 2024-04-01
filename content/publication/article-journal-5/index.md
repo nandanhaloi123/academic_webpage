@@ -33,7 +33,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *Neuron*
+publication_short: In *ACS Chem. Neurosci.*
 
 abstract: The α7 nicotinic acetylcholine receptor (α7nAChR) mediates signaling in the central nervous system and cholinergic anti-inflammatory pathways. Ivermectin is a positive allosteric modulator of a full-length α7nAChR and an agonist of the α7nAChR construct containing transmembrane (TMD) and intracellular (ICD) domains, but structural insights of the binding have not previously been determined. Here, combining nuclear magnetic resonance as a primary experimental tool with Rosetta comparative modeling and molecular dynamics simulations, we have revealed details of ivermectin binding to the α7nAChR TMD + ICD and corresponding structural changes in an ivermectin-induced desensitized state. Ivermectin binding was stabilized predominantly by hydrophobic interactions from interfacial residues between adjacent subunits near the extracellular end of the TMD, where the inter-subunit gap was substantially expanded in comparison to the apo structure. The ion-permeation pathway showed a profile distinctly different from the resting-state profile but similar to profiles of desensitized α7nAChR. The ICD also exhibited structural changes, including reorientation of the MX and h3 helices relative to the channel axis. The resulting structures of the α7nAChR TMD + ICD in complex with ivermectin provide opportunities for discovering new modulators of therapeutic potential and exploring the structural basis of cytoplasmic signaling under different α7nAChR functional states.
 
