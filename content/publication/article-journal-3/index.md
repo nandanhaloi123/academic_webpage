@@ -29,7 +29,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-02-07T00:00:00Z'
+date: '2024-01-07T00:00:00Z'
 doi: 'https://www.nature.com/articles/s41467-024-45396-8'
 
 # Schedule page publish date (NOT publication's date).
