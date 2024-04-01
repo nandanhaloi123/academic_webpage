@@ -128,7 +128,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: awards
+    id: posts
     content:
       title: Awards
       subtitle: ''
@@ -229,10 +229,10 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: Collaborators
-    id: collaborators
+  - block: contact
+    id: contact
     content:
-      title: Collaborators
+      title: Contact
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
