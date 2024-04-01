@@ -1,27 +1,17 @@
 ---
-title: 'Structural basis for the oligomerization-facilitated NLRP3 activation'
+title: 'Structure and dynamics of differential ligand binding in the human ρ-type GABAA receptor'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xiaodi Yu
-- Rosalie E Matico
-- Robyn Miller
-- Dhruv Chauhan
-- Bertrand Van Schoubroeck
-- Karolien Grauwen
-- Javier Suarez
-- Beth Pietrak
+- John Cowgill
+- Chen Fan
 - admin
-- Yanting Yin
-- Gary John Tresadern
-- Laura Perez-Benito
+- Victor Tobiasson
+- Yuxuan Zhuang
+- Rebecca J Howard
 - Erik Lindahl
-- Astrid Bottelbergs
-- Daniel Oehlrich
-- Nina Van Opdenbosch
-- Sujata Sharma
 
 
 # Author notes (optional)
@@ -29,8 +19,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-02-07T00:00:00Z'
-doi: 'https://www.nature.com/articles/s41467-024-45396-8'
+date: '2023-11-01T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.neuron.2023.08.006'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -42,9 +32,10 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *Nature Communications*
+publication_short: In *Neuron*
 
-abstract: The NACHT-, leucine-rich-repeat-, and pyrin domain-containing protein 3 (NLRP3) is a critical intracellular inflammasome sensor and an important clinical target against inflammation-driven human diseases. Recent studies have elucidated its transition from a closed cage to an activated disk-like inflammasome, but the intermediate activation mechanism remains elusive. Here we report the cryo-electron microscopy structure of NLRP3, which forms an open octamer and undergoes a ~ 90° hinge rotation at the NACHT domain. Mutations on open octamer’s interfaces reduce IL-1β signaling, highlighting its essential role in NLRP3 activation/inflammasome assembly. The centrosomal NIMA-related kinase 7 (NEK7) disrupts large NLRP3 oligomers and forms NEK7/NLRP3 monomers/dimers which is a critical step preceding the assembly of the disk-like inflammasome. These data demonstrate an oligomeric cooperative activation of NLRP3 and provide insight into its inflammasome assembly mechanism.
+abstract: The neurotransmitter γ-aminobutyric acid (GABA) drives critical inhibitory processes in and beyond the nervous system, partly via ionotropic type-A receptors (GABAARs). Pharmacological properties of ρ-type GABAARs are particularly distinctive, yet the structural basis for their specialization remains unclear. Here, we present cryo-EM structures of a lipid-embedded human ρ1 GABAAR, including a partial intracellular domain, under apo, inhibited, and desensitized conditions. An apparent resting state, determined first in the absence of modulators, was recapitulated with the specific inhibitor (1,2,5,6-tetrahydropyridin-4-yl)methylphosphinic acid and blocker picrotoxin and provided a rationale for bicuculline insensitivity. Comparative structures, mutant recordings, and molecular simulations with and without GABA further explained the sensitized but slower activation of ρ1 relative to canonical subtypes. Combining GABA with picrotoxin also captured an apparent uncoupled intermediate state. This work reveals structural mechanisms of gating and modulation with applications to ρ-specific pharmaceutical design and to our biophysical understanding of ligand-gated ion channels.
+
 
 
 # Summary. An optional shortened abstract.
