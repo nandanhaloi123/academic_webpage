@@ -28,7 +28,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-07-01T00:00:00Z'
-doi: 'https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00368'
+doi: 'https://doi.org/10.1021/acs.jmedchem.3c00368'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
