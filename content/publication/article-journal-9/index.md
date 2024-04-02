@@ -21,7 +21,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2021-06-01T00:00:00Z'
-doi: 'https://www.nature.com/articles/s42003-021-02205-y'
+doi: 'https://doi.org/10.1038/s42003-021-02205-y'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'

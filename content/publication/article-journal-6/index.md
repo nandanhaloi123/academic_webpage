@@ -22,7 +22,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2021-10-14T00:00:00Z'
-doi: 'https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04445a'
+doi: 'https://doi.org/10.1039/D1SC04445A'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'

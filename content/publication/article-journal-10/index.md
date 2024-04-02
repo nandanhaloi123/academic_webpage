@@ -20,7 +20,8 @@ authors:
 #   - 'Equal contribution'
 
 date: '2020-10-01T00:00:00Z'
-doi: 'https://elifesciences.org/articles/56098'
+doi: 'https://doi.org/10.7554/eLife.56098'
+
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
