@@ -21,7 +21,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-02-01T00:00:00Z'
-doi: 'https://pubs.acs.org/doi/10.1021/acschemneuro.2c00783'
+doi: 'https://doi.org/10.1021/acschemneuro.2c00783'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
