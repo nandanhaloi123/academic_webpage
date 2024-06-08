@@ -1,14 +1,11 @@
 ---
-title: 'Discovering cryptic pocket opening and binding of 
-a stimulant derivative in a vestibular site of the 5-HT3A receptor'
+title: 'Adaptive sampling-based structural prediction reveals opening of a GABAA receptor through the αβ interface' 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Emelia Karlsson
-- Marc Delarue
 - Rebecca J. Howard
 - Erik Lindahl
 
@@ -17,8 +14,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-11-01T00:00:00Z'
-doi: 'https://doi.org/10.1101/2023.11.13.566806'
+date: '2024-05-05T00:00:00Z'
+doi: 'https://doi.org/10.1101/2024.05.03.592340'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
