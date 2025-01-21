@@ -28,12 +28,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Protein conformations.
-  - Ligand-protein interactions.
-  - MD simulations.
-  - Markov state modeling.
-  - Machine learning.
-  - Experimental data integrations.
+  - Membrane Protein Function-Dynamic.
+  - Drug-Protein Interactions.
+  - Molecular Dynamics Simulations.
+  - Machine Learning.
+  - Integrative Modeling.
 
 
 # Education to show in About widget
