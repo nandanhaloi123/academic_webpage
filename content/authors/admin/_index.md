@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Dr. Nandan Haloi is driven by a fundamental question: how do biomolecules work at the atomic level to power life? Combining molecular simulations, machine learning, and experimental data like cryo-EM and small-angle scattering, he unravels the intricate motions of proteins and their interactions with drugs.
+Dr. Haloi is driven by a fundamental question: how do biomolecules work at the atomic level to power life? Combining molecular simulations, machine learning, and experimental data like cryo-EM and small-angle scattering, he unravels the intricate motions of proteins and their interactions with drugs.
 Currently a Marie Skłodowska-Curie Actions Postdoctoral Fellow at KTH Royal Institute of Technology, he is passionate about bridging computation and experiment to uncover new insights into biology. His work has been recognized with prestigious awards and featured in top journals, reflecting his commitment to advancing science and mentoring future researchers.{style="text-align: justify;"}
