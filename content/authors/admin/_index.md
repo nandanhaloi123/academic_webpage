@@ -119,9 +119,6 @@ social:
 highlight_name: true
 ---
 
-Dr. Nandan Haloi is a computational biophysicist dedicated to understanding biomolecular interactions at the atomic level and their role in defining the fundamental processes of life. His research integrates advanced computational techniques—including molecular dynamics simulations, machine learning, and integrative modeling—with experimental data such as cryo-electron microscopy (cryo-EM) and small-angle scattering to uncover the structural and dynamic principles of biomolecular function.
-
-Currently, Dr. Haloi is a Marie Skłodowska-Curie Actions Postdoctoral Fellow in the laboratory of Prof. Erik Lindahl at KTH Royal Institute of Technology in Stockholm, Sweden. His work focuses on developing data-driven modeling approaches to characterize ligand-protein interactions and conformational dynamics in membrane proteins. With a background in biophysics and quantitative biology, he has made significant contributions to the fields of molecular modeling, antibiotic resistance mechanisms, and structural neurobiology.
-
-Dr. Haloi has received multiple prestigious awards, including the EuroHPC Regular Access Supercomputing Grant and the EMBO Postdoctoral Fellowship Acknowledgment of Excellence. His research has been featured in leading scientific journals and international conferences, and he actively contributes to the scientific community through teaching, mentoring, and outreach initiatives.
+Dr. Nandan Haloi is a computational biophysicist specializing in biomolecular interactions and conformational dynamics. His research integrates molecular simulations, machine learning, and experimental data such as cryo-EM to study membrane proteins and ligand-protein interactions.
+Currently a Marie Skłodowska-Curie Actions Postdoctoral Fellow at KTH Royal Institute of Technology, Dr. Haloi has received multiple prestigious awards, including the EuroHPC Supercomputing Grant and EMBO Fellowship Acknowledgment. His work has been featured in leading journals and international conferences, and he actively contributes to teaching, mentoring, and scientific outreach.
 {style="text-align: justify;"}
