@@ -119,5 +119,9 @@ social:
 highlight_name: true
 ---
 
-Dr. Haloi strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. He is currently a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. 
+Dr. Nandan Haloi is a computational biophysicist dedicated to understanding biomolecular interactions at the atomic level and their role in defining the fundamental processes of life. His research integrates advanced computational techniques—including molecular dynamics simulations, machine learning, and integrative modeling—with experimental data such as cryo-electron microscopy (cryo-EM) and small-angle scattering to uncover the structural and dynamic principles of biomolecular function.
+
+Currently, Dr. Haloi is a Marie Skłodowska-Curie Actions Postdoctoral Fellow in the laboratory of Prof. Erik Lindahl at KTH Royal Institute of Technology in Stockholm, Sweden. His work focuses on developing data-driven modeling approaches to characterize ligand-protein interactions and conformational dynamics in membrane proteins. With a background in biophysics and quantitative biology, he has made significant contributions to the fields of molecular modeling, antibiotic resistance mechanisms, and structural neurobiology.
+
+Dr. Haloi has received multiple prestigious awards, including the EuroHPC Regular Access Supercomputing Grant and the EMBO Postdoctoral Fellowship Acknowledgment of Excellence. His research has been featured in leading scientific journals and international conferences, and he actively contributes to the scientific community through teaching, mentoring, and outreach initiatives.
 {style="text-align: justify;"}
