@@ -119,6 +119,6 @@ social:
 highlight_name: true
 ---
 
-Dr. Nandan Haloi is a computational biophysicist specializing in biomolecular interactions and conformational dynamics. His research integrates molecular simulations, machine learning, and experimental data such as cryo-EM to study membrane proteins and ligand-protein interactions.
+Dr. Haloi is a computational biophysicist specializing in biomolecular interactions and conformational dynamics. His research integrates molecular simulations, machine learning, and experimental data such as cryo-EM to study membrane proteins and ligand-protein interactions.
 Currently a Marie Skłodowska-Curie Actions Postdoctoral Fellow at KTH Royal Institute of Technology, Dr. Haloi has received multiple prestigious awards, including the EuroHPC Supercomputing Grant and EMBO Fellowship Acknowledgment. His work has been featured in leading journals and international conferences, and he actively contributes to teaching, mentoring, and scientific outreach.
 {style="text-align: justify;"}
