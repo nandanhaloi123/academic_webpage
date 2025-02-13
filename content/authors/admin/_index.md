@@ -28,9 +28,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Membrane Protein Function-Dynamic.
+  - Membrane Protein Dynamics.
   - Drug-Protein Interactions.
-  - Molecular Dynamics Simulations.
+  - Molecular Simulations.
   - Machine Learning.
   - Integrative Modeling.
 
