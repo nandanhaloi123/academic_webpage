@@ -1,14 +1,11 @@
 ---
-title: 'Discovering cryptic pocket opening and binding of 
-a stimulant derivative in a vestibular site of the 5-HT3A receptor'
+title: 'Modeling ligands in cryo-EM with generative AI and density-guided simulations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Emelia Karlsson
-- Marc Delarue
 - Rebecca J. Howard
 - Erik Lindahl
 
@@ -18,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-02-10T00:00:00Z'
-doi: 'https://doi.org/10.1101/2023.11.13.566806'
+doi: 'https://www.biorxiv.org/content/10.1101/2025.02.10.637508v1'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,9 +27,10 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In Science Advances, Accepted*
+publication_short: In bioRxiv*
 
-abstract: Ligand-gated ion channels propagate electrochemical signals in the nervous system. A diverse set of allosteric modulators including stimulants, anesthetics, and lipids regulate their function;however, structures of ligand-bound complexes can be difficult to capture by experimental methods, particularly when binding is dynamic or transient. Here, we used computational methods and electrophysiology to identify a possible bound state of a modulatory stimulant derivative in a cryptic vestibular pocket of a mammalian serotonin-3A receptor. Starting from a closed-pocket experimental structure, we first applied a molecular dynamics simulations-based goal-oriented adaptive sampling method to identify possible open-pocket conformations. To find plausible ligand-binding poses, we performed Boltzmann docking, which combines traditional docking with Markov state modeling, of the newly sampled conformations. Clustering and analysis of stability and accessibility of docked poses supported a preferred binding site; we further validated this site by mutagenesis and electrophysiology, suggesting a mechanism of potentiation by stabilizing intersubunit contacts. Given the pharmaceutical relevance of serotonin-3 receptors in emesis, psychiatric and gastrointestinal diseases, characterizing relatively unexplored modulatory sites such as these could open valuable avenues to understanding conformational cycling and designing state-dependent drugs.
+abstract: Resolving protein-ligand interactions in atomic detail is key to understanding how small molecules regulate macromolecular function. Although recent breakthroughs in cryogenic electron microscopy (cryo-EM) have enabled high-quality reconstruction of numerous complex biomolecules, the resolution of bound ligands is often relatively poor. Furthermore, automated methods for building and refining molecular models into cryo-EM maps have largely focused on proteins and may not be optimized for the diverse properties of small-molecule ligands. Here, we present an approach that integrates generative artificial intelligence (AI) with cryo-EM density-guided simulations to fit ligands into experimental maps. Using three inputs: 1) a protein amino acid sequence, 2) a ligand specification, and 3) an experimental cryo-EM map, we validated our approach on a set of biomedically relevant protein-ligand complexes including kinases, GPCRs, and solute transporters, none of which were present in the AI training data. In cases for which generative AI was not sufficient to predict experimental poses outright, integration of flexible fitting into molecular dynamics simulations improved ligand model-to-map cross-correlation relative to the deposited structure from 40-71% to 82-95%. This work offers a straightforward template for integrating generative AI and density-guided simulations to automate model building in cryo-EM maps of ligand-protein complexes, with potential applications for characterization and design of novel modulators and drugs.
+
 
 # Summary. An optional shortened abstract.
 summary: " "
