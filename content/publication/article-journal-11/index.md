@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-09-01T00:00:00Z'
-doi: 'https://www.biorxiv.org/content/10.1101/2024.09.05.611464v1'
+doi: 'https://doi.org/10.1101/2024.09.05.611464'
 
 
 # Schedule page publish date (NOT publication's date).

@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-02-06T00:00:00Z'
-doi: 'https://www.biorxiv.org/content/10.1101/2025.02.06.636862v1'
+doi: 'https://doi.org/10.1101/2025.02.06.636862'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
