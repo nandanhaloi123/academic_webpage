@@ -1,5 +1,5 @@
 ---
-title: 'Modeling ligands in cryo-EM with generative AI and density-guided simulations'
+title: 'Cryo-EM ligand building using generative AI and molecular dynamics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-02-10T00:00:00Z'
-doi: 'https://www.biorxiv.org/content/10.1101/2025.02.10.637508v1'
+doi: 'https://doi.org/10.1101/2025.02.10.637508'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
