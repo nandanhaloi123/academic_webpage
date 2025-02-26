@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-01-08T00:00:00Z'
-doi: 'https://www.science.org/doi/10.1126/sciadv.adq3788'
+doi: 'https://doi.org/10.1126/sciadv.adq3788'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2025-01-08T00:00:00Z'
