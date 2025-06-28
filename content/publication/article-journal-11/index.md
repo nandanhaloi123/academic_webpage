@@ -16,8 +16,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-09-01T00:00:00Z'
-doi: 'https://doi.org/10.1101/2024.09.05.611464'
+date: '2025-06-027T00:00:00Z'
+doi: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013187'
 
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *bioRxiv*
+publication_short: In *PLOS Computational Biology*
 
 abstract: The dynamic behavior of proteins is key to their function, including nerve signaling, enzyme catalysis, and cellular regulation. These functions rely on precise movements and shape changes that allow proteins to interact with other molecules. Understanding protein structures and their evolution at the atomic level is thus crucial for many applications such as drug development, but remains a challenging problem. High-resolution experimental techniques can determine the structural states of many proteins, but often struggle to capture less-populated states. While computational approaches can model protein dynamics, they can be expensive and are typically limited to short time scales that may not encompass the full range of biologically relevant behavior. Recently, artificial intelligence-driven tools like AlphaFold2 (AF) have emerged to predict protein structures with high accuracy. However, they usually default to predicting a single structure, and while modified workflows allow for sampling of alternative states, it can be difficult to assess their functional relevance. Here, we introduce a method that combines AlphaFold2 with small-angle scattering data to predict multiple protein states and their frequencies under specific biological conditions. This approach offers a computationally efficient alternative for integrating experimental data with computational methods, providing a new tool for studying protein dynamics.
 
