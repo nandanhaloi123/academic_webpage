@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-06-027T00:00:00Z'
+date: '2025-06-11T00:00:00Z'
 doi: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013187'
 
 
