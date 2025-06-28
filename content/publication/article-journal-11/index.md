@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-06-11T00:00:00Z'
-doi: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013187'
+doi: 'https://doi.org/10.1371/journal.pcbi.1013187'
 
 
 # Schedule page publish date (NOT publication's date).
