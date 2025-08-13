@@ -1,5 +1,5 @@
 ---
-title: 'Cryo-EM ligand building using generative AI and molecular dynamics'
+title: 'Cryo-EM ligand building using AlphaFold3-like model and molecular dynamics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-02-10T00:00:00Z'
-doi: 'https://doi.org/10.1101/2025.02.10.637508'
+doi: 'https://doi.org/10.1371/journal.pcbi.1013367'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,7 +27,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *bioRxiv*
+publication_short: In *PLOS Computational Biology*
 
 abstract: Resolving protein-ligand interactions in atomic detail is key to understanding how small molecules regulate macromolecular function. Although recent breakthroughs in cryogenic electron microscopy (cryo-EM) have enabled high-quality reconstruction of numerous complex biomolecules, the resolution of bound ligands is often relatively poor. Furthermore, automated methods for building and refining molecular models into cryo-EM maps have largely focused on proteins and may not be optimized for the diverse properties of small-molecule ligands. Here, we present an approach that integrates generative artificial intelligence (AI) with cryo-EM density-guided simulations to fit ligands into experimental maps. Using three inputs- 1) a protein amino acid sequence, 2) a ligand specification, and 3) an experimental cryo-EM map, we validated our approach on a set of biomedically relevant protein-ligand complexes including kinases, GPCRs, and solute transporters, none of which were present in the AI training data. In cases for which generative AI was not sufficient to predict experimental poses outright, integration of flexible fitting into molecular dynamics simulations improved ligand model-to-map cross-correlation relative to the deposited structure from 40-71% to 82-95%. This work offers a straightforward template for integrating generative AI and density-guided simulations to automate model building in cryo-EM maps of ligand-protein complexes, with potential applications for characterization and design of novel modulators and drugs.
 
