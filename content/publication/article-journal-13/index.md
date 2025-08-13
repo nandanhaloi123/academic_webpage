@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-02-10T00:00:00Z'
+date: '2025-07-10T00:00:00Z'
 doi: 'https://doi.org/10.1371/journal.pcbi.1013367'
 
 # Schedule page publish date (NOT publication's date).
