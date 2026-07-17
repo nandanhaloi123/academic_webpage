@@ -1,5 +1,5 @@
 ---
-title: 'Modeling cryo-EM structures in alternative states with phaFold2-based models and density-guided simulations'
+title: 'Modeling cryo-EM structures in alternative states with AlphaFold2-based models and density-guided simulations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
