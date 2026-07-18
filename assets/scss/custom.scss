@@ -1,17 +1,22 @@
 // Site-specific overrides. This file is imported last by the theme, after
 // all Bootstrap/theme styles, so rules here win without needing !important.
 
-// Hero section: the image (title baked in) fills the section edge-to-edge,
-// full viewport width, with no side gutters and no container cap. Height is
-// auto (full image, no cropping) so nothing in the image gets clipped; on
-// screens where the image's aspect ratio is taller than the viewport this
-// may need a small scroll to see the very bottom, which is preferable to
-// cropping content out of it.
+// Hero section: pinned to exactly the viewport height (minus the 70px
+// sticky navbar), never taller, so this section on its own can never cause
+// scrolling. The image is fit inside with `object-fit: contain`, scaled by
+// whichever dimension is tighter - width or height - so it always shows in
+// full (no cropping) and never overflows. Depending on the image's aspect
+// ratio versus the screen's, this can leave a little empty space either on
+// the sides or below, but it will never require scrolling. See the ideal
+// source aspect ratio noted below to minimize that empty space to ~0 on
+// most common screens.
 .wg-hero {
+  height: calc(100vh - 70px);
   min-height: calc(100vh - 70px);
   padding: 0;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  overflow: hidden;
 
   // The theme's `hero-config.html` hook for disabling the `.container` wrap
   // doesn't actually work - Hugo's `with` skips when the config value is
@@ -21,13 +26,26 @@
     max-width: 100%;
     padding-left: 0;
     padding-right: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
+// Ideal source image aspect ratio: about 2:1 (e.g. 2400x1200px). Common
+// laptop/desktop screens, minus the navbar, have a box ratio of roughly
+// 1.65 (large MacBooks) to 1.97 (1366x768-class laptops). A 2:1 image is
+// wider than all of those, so it always fills full width edge-to-edge and
+// only ever letterboxes a little at the bottom - never on the sides.
 .hero-media-full {
   display: block;
-  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
   height: auto;
+  object-fit: contain;
+  margin: 0 auto;
 }
 
 // This Bootstrap build doesn't generate a `.visually-hidden` utility class,
