@@ -1,36 +1,47 @@
 // Site-specific overrides. This file is imported last by the theme, after
 // all Bootstrap/theme styles, so rules here win without needing !important.
 
-// Hero section: fit entirely within the opening viewport (title + figure,
-// no scrolling needed). 70px accounts for the sticky navbar's height.
-// `.home-section` normally adds 110px of padding top/bottom - that ate
-// most of the vertical budget, leaving the image much smaller than the
-// available screen space, so it's trimmed down here too.
+// Hero section: the image (title baked in) fills the section edge-to-edge,
+// full viewport width, with no side gutters and no container cap. Height is
+// auto (full image, no cropping) so nothing in the image gets clipped; on
+// screens where the image's aspect ratio is taller than the viewport this
+// may need a small scroll to see the very bottom, which is preferable to
+// cropping content out of it.
 .wg-hero {
   min-height: calc(100vh - 70px);
-  padding: 20px 0;
+  padding: 0;
   display: flex;
-  align-items: center;
-}
+  align-items: flex-start;
 
-.hero-title {
-  margin-bottom: 0.5rem;
+  // The theme's `hero-config.html` hook for disabling the `.container` wrap
+  // doesn't actually work - Hugo's `with` skips when the config value is
+  // literally `false`, so `use_container: false` never applies. Neutralizing
+  // the container here directly instead.
+  .container {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 .hero-media-full {
-  display: flex;
-  justify-content: center;
-  margin-top: 0.5rem;
+  display: block;
+  width: 100%;
+  height: auto;
+}
 
-  img {
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    max-height: calc(100vh - 200px);
-    object-fit: contain;
-    border-radius: 12px;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
-  }
+// This Bootstrap build doesn't generate a `.visually-hidden` utility class,
+// so define the standard accessible-hiding pattern ourselves.
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
 
 // Journey page map: this section uses a widened article column
