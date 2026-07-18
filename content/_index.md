@@ -6,12 +6,12 @@ type: landing
 
 sections:
   - block: hero
-    content: Data-Driven Protein Biophysics
-      title: 
+    content:
+      title: Data-Driven Protein Biophysics
       image:
-        filename: hero-academic.png
+        filename: heropage.png
       text: |-
-       Decoding how biomolecular motions and their interactions with drugs using AI simulation and experiments.
+        Decoding how biomolecular motions and their interactions with drugs using AI simulation and experiments.
       cta:
         label: '**View Publications**'
         url: '#publications'
