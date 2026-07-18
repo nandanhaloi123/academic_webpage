@@ -1,17 +1,42 @@
 // Site-specific overrides. This file is imported last by the theme, after
 // all Bootstrap/theme styles, so rules here win without needing !important.
 
-// Hero figure: shown full-width below the intro text (see the local
-// `layouts/partials/blocks/hero.html` override), so give it some breathing
-// room and a subtle frame against the gradient background.
+// Hero section: fit entirely within the opening viewport (title + figure,
+// no scrolling needed). 70px accounts for the sticky navbar's height.
+.wg-hero {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+}
+
 .hero-media-full {
-  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
 
   img {
-    width: 100%;
+    width: auto;
+    max-width: 100%;
     height: auto;
-    max-width: 1100px;
+    max-height: 55vh;
+    object-fit: contain;
     border-radius: 12px;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
   }
+}
+
+// Journey page map: this section uses a widened article column
+// (see layouts/career/single.html) instead of the default narrow
+// 760px prose width, so the map reads at full size. Page scrolls
+// normally to show all of it - no height constraint here.
+.article-container-wide {
+  max-width: 1140px;
+}
+
+.journey-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
 }
