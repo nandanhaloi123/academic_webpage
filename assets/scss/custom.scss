@@ -1,0 +1,17 @@
+// Site-specific overrides. This file is imported last by the theme, after
+// all Bootstrap/theme styles, so rules here win without needing !important.
+
+// Hero figure: shown full-width below the intro text (see the local
+// `layouts/partials/blocks/hero.html` override), so give it some breathing
+// room and a subtle frame against the gradient background.
+.hero-media-full {
+  margin-top: 2rem;
+
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 1100px;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  }
+}
