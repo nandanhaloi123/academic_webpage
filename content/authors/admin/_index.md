@@ -16,11 +16,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Marie Curie Postdoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KTH Royal Institute of Technology
+  - name: Stockholm University
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -120,5 +120,5 @@ highlight_name: true
 ---
 
 Dr. Haloi is driven by a fundamental question: how do biomolecules work at the atomic level to power life? Combining molecular simulations, machine learning, and experimental data like cryo-EM and small-angle scattering, he unravels the intricate motions of proteins and their interactions with drugs.
-He is currently a Marie Skłodowska-Curie Actions Postdoctoral Fellow at KTH Royal Institute of Technology. His work has been recognized with prestigious awards and featured in top journals, reflecting his commitment to advancing science and mentoring future researchers.
+His work has been recognized with prestigious awards and featured in top journals, reflecting his commitment to advancing science and mentoring future researchers.
 {style="text-align: justify;"}

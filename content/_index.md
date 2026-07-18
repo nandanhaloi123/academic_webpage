@@ -6,12 +6,12 @@ type: landing
 
 sections:
   - block: hero
-    content:
-      title: Nandan Haloi
+    content: Data-Driven Protein Biophysics
+      title: 
       image:
         filename: hero-academic.png
       text: |-
-        Marie Skłodowska-Curie Postdoctoral Fellow at KTH Royal Institute of Technology, decoding how biomolecules move, interact, and respond to drugs — one simulation at a time.
+       Decoding how biomolecular motions and their interactions with drugs using AI simulation and experiments.
       cta:
         label: '**View Publications**'
         url: '#publications'
