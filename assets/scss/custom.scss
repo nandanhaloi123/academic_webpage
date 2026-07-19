@@ -62,14 +62,7 @@
   border: 0 !important;
 }
 
-// Journey page map: this section uses a widened article column
-// (see layouts/career/single.html) instead of the default narrow
-// 760px prose width, so the map reads at full size. Page scrolls
-// normally to show all of it - no height constraint here.
-.article-container-wide {
-  max-width: 1140px;
-}
-
+// Journey homepage section map (see content/_index.md).
 .journey-map {
   display: block;
   width: 100%;

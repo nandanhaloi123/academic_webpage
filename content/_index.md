@@ -20,6 +20,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: journey
+    content:
+      title: My Journey
+      text: |-
+        <img src="/media/trajectory.png" alt="Career trajectory: India to the United States to Sweden" class="journey-map">
+    design:
+      columns: '1'
   # - block: skills
   #   content:
   #     title: Skills

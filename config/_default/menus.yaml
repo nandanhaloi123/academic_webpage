@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Journey
-    url: 'career/'
+    url: '#journey'
     weight: 15
   - name: Grants
     url: '#grants'
