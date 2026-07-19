@@ -12,9 +12,8 @@ sections:
         filename: heropage.png
     design:
       background:
-        gradient_start: '#0b1c33'
-        gradient_end: '#0369a1'
-        text_color_light: true
+        color: '#ffffff'
+        text_color_light: false
   - block: about.biography
     id: about
     content:
